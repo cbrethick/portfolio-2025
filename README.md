@@ -4,7 +4,7 @@ Hi 👋 I'm **Rethick CB**, a 3rd-semester CSE (Data Science) student passionate
 
 🌍 Website: [rethickcb.netlify.app](https://rethickcb.netlify.app/)  
 💻 GitHub: [github.com/cbrethick](https://github.com/cbrethick)  
-📧 Email: your-email@example.com  
+📧 Email: rethickcb2007@gmail.com  
 
 ## 🚀 Projects
 - Crop Yield Prediction (coming soon)
