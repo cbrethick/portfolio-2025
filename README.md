@@ -3,7 +3,7 @@
 Hi 👋 I'm **Rethick CB**, a 3rd-semester CSE (Data Science) student passionate about AI, ML, and Data Science.
 
 🌍 Website: [rethickcb.netlify.app](https://rethickcb.netlify.app/)  
-💻 GitHub: [github.com/rethickcb](https://github.com/cbrethick)  
+💻 GitHub: [github.com/cbrethick](https://github.com/cbrethick)  
 📧 Email: your-email@example.com  
 
 ## 🚀 Projects
